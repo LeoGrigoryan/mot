@@ -1,0 +1,37 @@
+.App {
+  width: 100%;
+  min-height: 100vh;
+  background: #151515;
+  padding: 5rem 23%;
+  gap: 1rem 1rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+.App > div {
+  width: 49%;
+  height: 25rem;
+  border-radius: 40px;
+  background: conic-gradient(rgb(0, 184, 0), #fff, rgb(0, 184, 0), #fff, rgb(0, 184, 0) );
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.App .coverer {
+  width: 99%;
+  height: 99%;
+  background: #151515;
+  border-radius: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+h2 {
+  color: #fff;
+  font: bold 4rem system-ui;
+  transform: scaleX(1.1);
+}
+h2:nth-child(2) {
+  color: rgb(0, 200, 0);
+  transform: scaleX(1);
+}
