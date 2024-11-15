@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LeoGrigoryan/mot.git/static/css/main.3a5f2f85.css",
+    "main.js": "/LeoGrigoryan/mot.git/static/js/main.3d2c4a3a.js",
+    "index.html": "/LeoGrigoryan/mot.git/index.html",
+    "main.3a5f2f85.css.map": "/LeoGrigoryan/mot.git/static/css/main.3a5f2f85.css.map",
+    "main.3d2c4a3a.js.map": "/LeoGrigoryan/mot.git/static/js/main.3d2c4a3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a5f2f85.css",
+    "static/js/main.3d2c4a3a.js"
+  ]
+}
